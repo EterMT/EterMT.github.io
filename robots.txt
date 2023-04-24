@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://etermt.github.io/sitemap.xml
