@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>文章 on etermt</title>
-    <link>https://etermt.github.io/posts/</link>
-    <description>Recent content in 文章 on etermt</description>
+    <title>Java on etermt</title>
+    <link>https://etermt.github.io/tags/java/</link>
+    <description>Recent content in Java on etermt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>etermt</copyright>
-    <lastBuildDate>Thu, 02 Apr 2020 11:25:05 -0400</lastBuildDate><atom:link href="https://etermt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2020 11:25:05 -0400</lastBuildDate><atom:link href="https://etermt.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java线程池实现原理及其在美团业务中的实践</title>
       <link>https://etermt.github.io/posts/tech/java%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E5%8F%8A%E5%85%B6%E5%9C%A8%E7%BE%8E%E5%9B%A2%E4%B8%9A%E5%8A%A1%E4%B8%AD%E7%9A%84%E5%AE%9E%E8%B7%B5/</link>
